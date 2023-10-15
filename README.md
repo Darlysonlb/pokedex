@@ -1,2 +1,2 @@
-# Criação com da pokedex no desafio da DIO
+# Criação da pokedex no desafio da DIO
 ## seguindo os passo a passo do Professor Renan
